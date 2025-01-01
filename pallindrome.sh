@@ -10,6 +10,9 @@ do
 done
 
 
+
+
+
 if [ $temp==$rev ]
 then
 echo "pallindrome"
