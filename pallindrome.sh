@@ -8,11 +8,7 @@ do
 	rev=$((($rev * 10) +$r))
 	n=`expr $n / 10`
 done
-
-
-
-
-
+echo"goooooodmorning"
 if [ $temp==$rev ]
 then
 echo "pallindrome"
